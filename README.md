@@ -1,5 +1,5 @@
 # 💫 About Me:
-Typecript, C# and Python developer, experienced creating web apps, APIs, database design and full stack developer.
+Typecript, C# and Python developer, experienced creating web apps, APIs, database design and full stack development.<br>I am constantly updating to stay up to date with new technologies and tools
 
 
 
