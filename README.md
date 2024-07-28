@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working in some projects for get more experience <br>I'm learning frontend and backend development with technologies like React, Node, Next, PHP, and more<br>I'm looking to collaborate with another developers <br>Ask me about backend development and <br>I'm looking being more better developer and team working
+Typecript, C# and Python developer, experienced creating web apps, APIs, database design and full stack developer.
+
 
 
 ## 🌐 Socials:
