@@ -1,7 +1,5 @@
 # 💫 About Me:
-Typecript, C# and Python developer, experienced creating web apps, APIs, database design and full stack development.<br>I am constantly updating to stay up to date with new technologies and tools
-
-
+Hi, I'm Alejandro Estrada, I am developer since 2021, I am experieced with full stack web developent, I have depeloped some web applications, APIs, Desktop Apps, designed and implemented databases.<br>I'm very well in teamworking, and quick learning. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Alejandro Estrada](https://www.facebook.com/profile.php?id=100004924396227)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alejandro_estradalpz04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Alejandro Raphael Estrada Lopez](https://www.linkedin.com/in/alejandro-estrada-lopez-9a8a1321b/)) 
