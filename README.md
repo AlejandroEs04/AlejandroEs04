@@ -1,23 +1,23 @@
-<h1 align="center">Hola, soy Alejandro Estrada 👋</h1>
+<h1 align="center">Hi, I'm Alejandro Estrada 👋</h1>
 
 <p align="center">
-  Full Stack Developer desde 2021 · Web · APIs · Apps de escritorio · Diseño de bases de datos
+  Full Stack Developer since 2021 · Web · APIs · Desktop Apps · Database Design
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlejandroEs04&label=Visitas+al+perfil&color=7c3aed&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=AlejandroEs04&label=Profile+Views&color=7c3aed&style=flat" alt="visitor badge" />
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About Me
 
-- 💼 Desarrollo full stack (web, APIs, apps de escritorio y móvil)
-- 🗄️ Diseño e implementación de bases de datos
-- 🤝 Buen trabajo en equipo y aprendizaje rápido
-- 🌱 Siempre construyendo algo nuevo
+- 💼 Full stack development (web, APIs, desktop and mobile apps)
+- 🗄️ Database design and implementation
+- 🤝 Great at teamwork and a fast learner
+- 🌱 Always building something new
 
-### 📫 Encuéntrame en
+### 📫 Find Me On
 
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100004924396227" target="_blank">
@@ -35,7 +35,7 @@
 
 ### 🛠️ Tech Stack
 
-**Lenguajes**
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -63,12 +63,12 @@
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Bases de datos**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Herramientas & Deploy**
+**Tools & Deployment**
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
@@ -76,7 +76,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
 
-**Diseño**
+**Design**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
@@ -85,7 +85,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlejandroEs04&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
@@ -96,4 +96,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroEs04&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Hecho con ❤️ -->
+<!-- Made with ❤️ -->
